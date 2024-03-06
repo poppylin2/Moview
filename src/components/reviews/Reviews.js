@@ -35,10 +35,6 @@ const Reviews = ({getMovieData,movie,reviews,setReviews}) => {
         {
             console.error(err);
         }
-        
-
-
-
     }
 
   return (
